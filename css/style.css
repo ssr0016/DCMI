@@ -1,0 +1,66 @@
+body
+{
+background-color: #ddeef6;
+background-image: url(../img/front-bg.gif);
+background-repeat: repeat;
+}
+
+.content
+{
+background:white;
+padding:15px;
+margin:15px;
+font-family:Verdana, Geneva, sans-serif;
+font-size: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+-webkit-box-shadow: 0 0 5px 2px #999;
+-moz-box-shadow: 0 0 5px 2px #999;
+width: 400;
+margin-left: auto;
+margin-right: auto;
+}
+
+#border
+{
+border:2px solid #a1a1a1;
+padding:20px;
+background:#dddddd;
+border-radius:25px;
+}
+
+
+
+
+/*addstud.php*/
+.title
+{ 
+    font-weight: bold;
+    color: #4F5357;
+    font-size: 20px;
+    text-align:center;
+}
+
+.title2
+{ 
+    font-weight: bold;
+    color: blue;
+    font-size: 15px;
+}
+
+div .center
+{
+    text-align:center;
+}
+.right
+{
+    float:right;
+}
+/*-----------------------------------*/
+
+
+
+
+
+
+
